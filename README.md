@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadow-supreme22
 - 👀 I’m interested in working on new projects
-- 🌱 I’m currently learning  Web Development
+- 🌱 I’m currently learning  Full Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
