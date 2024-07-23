@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shadow-supreme22
 - 👀 I’m interested in working on new projects
-- 🌱 I’m currently learning  Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Latest technologies
+- 📫 How to reach me varinderjotsinghheer18020061@gmail.com
 
 <!---
 Shadow-supreme22/Shadow-supreme22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
